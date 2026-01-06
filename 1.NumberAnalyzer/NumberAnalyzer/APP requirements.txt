@@ -1,0 +1,7 @@
+Number Analyzer app
+
+Should take Input numbers from the user then 
+ 
+Calculate min, max, average.
+
+Purpose is to show the ability to handle loops, arrays, and basic logic.
