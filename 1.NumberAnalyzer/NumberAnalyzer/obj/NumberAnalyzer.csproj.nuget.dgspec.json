@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mouhammadkharboutli/DEV/csharp/Learning CSHarp/1.NumberAnalyzer/NumberAnalyzer/NumberAnalyzer/NumberAnalyzer.csproj": {}
+    "/Users/mouhammadkharboutli/DEV/C# DEV Projects/CSharp-projects/1.NumberAnalyzer/NumberAnalyzer/NumberAnalyzer.csproj": {}
   },
   "projects": {
-    "/Users/mouhammadkharboutli/DEV/csharp/Learning CSHarp/1.NumberAnalyzer/NumberAnalyzer/NumberAnalyzer/NumberAnalyzer.csproj": {
+    "/Users/mouhammadkharboutli/DEV/C# DEV Projects/CSharp-projects/1.NumberAnalyzer/NumberAnalyzer/NumberAnalyzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mouhammadkharboutli/DEV/csharp/Learning CSHarp/1.NumberAnalyzer/NumberAnalyzer/NumberAnalyzer/NumberAnalyzer.csproj",
+        "projectUniqueName": "/Users/mouhammadkharboutli/DEV/C# DEV Projects/CSharp-projects/1.NumberAnalyzer/NumberAnalyzer/NumberAnalyzer.csproj",
         "projectName": "NumberAnalyzer",
-        "projectPath": "/Users/mouhammadkharboutli/DEV/csharp/Learning CSHarp/1.NumberAnalyzer/NumberAnalyzer/NumberAnalyzer/NumberAnalyzer.csproj",
+        "projectPath": "/Users/mouhammadkharboutli/DEV/C# DEV Projects/CSharp-projects/1.NumberAnalyzer/NumberAnalyzer/NumberAnalyzer.csproj",
         "packagesPath": "/Users/mouhammadkharboutli/.nuget/packages/",
-        "outputPath": "/Users/mouhammadkharboutli/DEV/csharp/Learning CSHarp/1.NumberAnalyzer/NumberAnalyzer/NumberAnalyzer/obj/",
+        "outputPath": "/Users/mouhammadkharboutli/DEV/C# DEV Projects/CSharp-projects/1.NumberAnalyzer/NumberAnalyzer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mouhammadkharboutli/.nuget/NuGet/NuGet.Config"
